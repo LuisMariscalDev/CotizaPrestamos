@@ -4,7 +4,7 @@ Una aplicación web sencilla para calcular y visualizar pagos mensuales en base 
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](/public/Captura1.png.png)
+![Captura de Pantalla 1](/public/Captura1.png)
 
 ## Demo
 
