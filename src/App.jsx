@@ -31,7 +31,7 @@ function App() {
     const valor = cantidad - STEP;
 
     if(valor < MIN) {
-      alert('Cantidad no válida');
+      alert('invalid amount');
       return;
     }
 
@@ -42,7 +42,7 @@ function App() {
     const valor = cantidad + STEP;
 
     if(valor > MAX) {
-      alert('Cantidad no válida');
+      alert('invalid amount');
       return;
     }
 
