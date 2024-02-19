@@ -15,7 +15,7 @@ function App() {
   }, [cantidad, meses]);
 
   useEffect(() => {
-    // Calcular el pago a meses
+    // Calcular el pago a meses mediante una simple operación
     setPago(total / meses);
   }, [total]);
 
